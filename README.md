@@ -374,9 +374,9 @@ This can provide useful insight into how actively customers are using different 
 
 *Add the screenshot of the Transaction Report here.*
 
-```text
-![Transaction Report](your-image-url)
-```
+
+![Transaction Report](https://github.com/Piyushsingh006/Data_Analysis_Credit-Card/blob/main/Screenshot%202026-08-19%20202709.png?raw=true)
+
 
 ## Customer Report
 
