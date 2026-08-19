@@ -1,5 +1,4 @@
-# Data_Analysis_Credit-Card
-# 💳 Credit Card Financial Weekly Status Dashboard
+# Data_Analysis_Credit-Card 💳 
 
 ## 📌 Project Overview
 
