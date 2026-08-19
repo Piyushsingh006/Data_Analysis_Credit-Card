@@ -8,6 +8,8 @@ The objective of this project is to transform raw credit-card data into an inter
 
 The project combines **SQL, Power BI, DAX, and CSV-based data** to create an end-to-end analytics workflow.
 
+![Transaction Report](https://github.com/Piyushsingh006/Data_Analysis_Credit-Card/blob/main/Screenshot%202026-08-19%20202709.png?raw=true)
+
 ---
 
 ## 🎯 Business Problem
@@ -372,19 +374,16 @@ This can provide useful insight into how actively customers are using different 
 
 ## Transaction Report
 
-*Add the screenshot of the Transaction Report here.*
-
-
 ![Transaction Report](https://github.com/Piyushsingh006/Data_Analysis_Credit-Card/blob/main/Screenshot%202026-08-19%20202709.png?raw=true)
 
 
 ## Customer Report
 
-*Add the screenshot of the Customer Report here.*
 
-```text
-![Customer Report](your-image-url)
-```
+
+
+![Customer Report](https://github.com/Piyushsingh006/Data_Analysis_Credit-Card/blob/main/Screenshot%202026-08-19%20203348.png?raw=true)
+
 
 ---
 
